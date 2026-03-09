@@ -96,7 +96,7 @@ if 'current_query' not in st.session_state:
 def render_sidebar():
     """Render sidebar content"""
     with st.sidebar:
-        st.markdown("## 🤖 Multi-Agent AI System")
+        st.markdown("## 🤖 FinSight-AI-Financial-Agent")
         st.markdown("---")
         
         st.markdown("""
